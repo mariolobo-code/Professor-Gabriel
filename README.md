@@ -134,3 +134,21 @@ button {
 }
 
 
+ultimo exercicio
+
+<!DOCTYPE html>
+<html lang= "pt-BR">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=devide-width, initial-scale=1.0">
+   <title>Horizonte Soluções Digitais</title>
+   <link rel="stylesheet" href="estilo.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+<a class="pular-conteudo" href="conteudo">Pular para o conteúdo principal</a>
+
+    <header class="cabecalho">
+         <p class_"etiqueta">Tecnologiapara pequenos negòcios</p> 
+
+
